@@ -1,6 +1,4 @@
-![завантаження](https://github.com/GitHub102938/GitHub1029387.github.io/assets/148559781/a1bd4082-c003-4630-a514-933131a8f608)
-![56_ua](https://github.com/GitHub102938/GitHub1029387.github.io/assets/148559781/6975da71-4b3b-4d33-912a-89ed8032a276)
-![63](https://github.com/GitHub102938/GitHub1029387.github.io/assets/148559781/5ac54edb-bc51-43bc-aaa5-dde02f70e8a2)
+
 
 <html lang="en uk">
 	<head>
