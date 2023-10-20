@@ -3,7 +3,7 @@
 <html lang="en uk">
 	<head>
 		<title>Людина мураха 3</title>
-		<link rel="stylesheet" href ="./Фото/робота.css">
+		<link rel="stylesheet" href ="./робота.css">
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 		<link href="htts://fonts.googleapis.com/css2?family=Raleway 400, 700&display=swap" rel="stylesheet">
