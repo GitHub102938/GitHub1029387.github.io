@@ -1,5 +1,4 @@
-
-
+<!Doctype html>
 <html lang="en uk">
 	<head>
 		<title>Людина мураха 3</title>
