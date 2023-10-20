@@ -22,6 +22,7 @@
 	<div class="header" >
 	<div class="logo">
 	<a href="Людина мураха 3.html" >
+	![56_ua](https://github.com/GitHub102938/GitHub1029387.github.io/assets/148559781/40f996ac-ca7f-44d7-a975-11312cc52174)
 	<img class="logo" src="./Фото./56_ua.jpg" alt="Лого дуже класне">
 	</a>
 	</div>
